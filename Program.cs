@@ -15,14 +15,10 @@ namespace LinkedListUC3
             l.Enqueue(56);
             l.Enqueue(30);
             l.Enqueue(70);
-            l.Display();
-            
 
-
-
-
-
-
+            l.dequeue();
+            l.dequeue();
+            l.dequeue();
         }
     }
 }
